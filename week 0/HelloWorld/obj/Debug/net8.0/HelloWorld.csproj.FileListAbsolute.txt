@@ -1,0 +1,14 @@
+/Users/seansteenhuis/Desktop/c sharp project/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/seansteenhuis/Desktop/c sharp project/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/seansteenhuis/Desktop/c sharp project/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/seansteenhuis/Desktop/c sharp project/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/seansteenhuis/Desktop/c sharp project/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/seansteenhuis/Desktop/c sharp project/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seansteenhuis/Desktop/c sharp project/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/seansteenhuis/Desktop/c sharp project/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/seansteenhuis/Desktop/c sharp project/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/seansteenhuis/Desktop/c sharp project/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/seansteenhuis/Desktop/c sharp project/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/seansteenhuis/Desktop/c sharp project/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/seansteenhuis/Desktop/c sharp project/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/seansteenhuis/Desktop/c sharp project/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll

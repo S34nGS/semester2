@@ -1,0 +1,14 @@
+/Users/seansteenhuis/Desktop/semester 2/week 1/1.1/t05/bin/Debug/net8.0/t05
+/Users/seansteenhuis/Desktop/semester 2/week 1/1.1/t05/bin/Debug/net8.0/t05.deps.json
+/Users/seansteenhuis/Desktop/semester 2/week 1/1.1/t05/bin/Debug/net8.0/t05.runtimeconfig.json
+/Users/seansteenhuis/Desktop/semester 2/week 1/1.1/t05/bin/Debug/net8.0/t05.dll
+/Users/seansteenhuis/Desktop/semester 2/week 1/1.1/t05/bin/Debug/net8.0/t05.pdb
+/Users/seansteenhuis/Desktop/semester 2/week 1/1.1/t05/obj/Debug/net8.0/t05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seansteenhuis/Desktop/semester 2/week 1/1.1/t05/obj/Debug/net8.0/t05.AssemblyInfoInputs.cache
+/Users/seansteenhuis/Desktop/semester 2/week 1/1.1/t05/obj/Debug/net8.0/t05.AssemblyInfo.cs
+/Users/seansteenhuis/Desktop/semester 2/week 1/1.1/t05/obj/Debug/net8.0/t05.csproj.CoreCompileInputs.cache
+/Users/seansteenhuis/Desktop/semester 2/week 1/1.1/t05/obj/Debug/net8.0/t05.dll
+/Users/seansteenhuis/Desktop/semester 2/week 1/1.1/t05/obj/Debug/net8.0/refint/t05.dll
+/Users/seansteenhuis/Desktop/semester 2/week 1/1.1/t05/obj/Debug/net8.0/t05.pdb
+/Users/seansteenhuis/Desktop/semester 2/week 1/1.1/t05/obj/Debug/net8.0/t05.genruntimeconfig.cache
+/Users/seansteenhuis/Desktop/semester 2/week 1/1.1/t05/obj/Debug/net8.0/ref/t05.dll
