@@ -1,4 +1,5 @@
-﻿static class Program
+﻿//TODO unfinished
+static class Program
 {
     static void Main()
     {
